@@ -1,0 +1,135 @@
+
+/* Tombol Widget */
+#chat-widget {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #007bff;
+  color: white;
+  padding: 14px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 20px;
+  z-index: 1000;
+}
+
+/* Popup Container */
+#chat-container {
+  display: none;
+  flex-direction: column;
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  width: 320px;
+  height: 420px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  overflow: hidden;
+  z-index: 999;
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+#chat-header {
+  background: #007bff;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Chat Box */
+#chat-box {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 10px;
+  background: #f8f9fa;
+}
+
+/* Input */
+#chat-input {
+  display: flex;
+  border-top: 1px solid #ccc;
+}
+#chat-input input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  outline: none;
+}
+#chat-input button {
+  padding: 10px 14px;
+  border: none;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+/* Bubble */
+.chat-bubble {
+  max-width: 75%;
+  padding: 10px 14px;
+  border-radius: 18px;
+  line-height: 1.4;
+  font-size: 14px;
+  word-wrap: break-word;
+}
+
+/* User bubble kanan */
+.user-bubble {
+  background: #dcf8c6;
+  align-self: flex-end;
+  border-bottom-right-radius: 5px;
+}
+
+/* Bot bubble kiri */
+.bot-bubble {
+  background: #f1f0f0;
+  align-self: flex-start;
+  border-bottom-left-radius: 5px;
+}
+
+#quick-replies {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 6px;
+  border-bottom: 1px solid #ddd;
+  background: #fafafa;
+}
+#quick-replies button {
+  background: #e4e6eb;
+  border: none;
+  border-radius: 16px;
+  padding: 6px 12px;
+  cursor: pointer;
+  font-size: 13px;
+}
+#quick-replies button:hover {
+  background: #d0d3d8;
+}
+
+/* ================= NAVBAR ================= */
+
+/* Awal transparan */
+.navbar {
+  background-color: transparent !important;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  width: 100%;
+  z-index: 1030;
+}
+
+/* Jadi putih pas scroll */
+.navbar.scrolled {
+  background-color: #f8f9fa !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Biar konten ga ketiban */
+body {
+  padding-top: 0px;
+}

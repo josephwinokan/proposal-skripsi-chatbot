@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+   <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UM Chatbot</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="stylesheet" href="static/widget.css">
+</head>
+<body>
+  <nav class="navbar fixed-top">
+  <div class="container d-flex align-items-center" style="max-width: 1100px;">
+    <a class="navbar-nav me-4" href="#">
+      <img src="{{ url_for('static', filename='img/logoo.png') }}" 
+           alt="Logo" width="300" height="70" 
+           class="d-inline-block align-text-top">
+    </a>
+    <a class="nav-link mx-2" href="#">Profile</a>
+    <a class="nav-link mx-2" href="#">Pendidikan</a>
+    <a class="nav-link mx-2" href="#">Penelitian</a>
+    <a class="nav-link mx-2" href="#">Pengabdian</a>
+    <a class="nav-link mx-2" href="#">Kemitraan</a>
+    <a class="nav-link mx-2" href="#">Layanan</a>
+    <button class="btn btn-outline-secondary me-2" type="button" style="margin-left: -10px;">
+      Pendaftaran
+    </button>
+  </div>
+</nav>
+
+<style>
+/* Awal transparan */
+.navbar {
+  background-color: transparent !important;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  width: 100%;
+  z-index: 1030;
+}
+
+/* Navbar discroll */
+.navbar.scrolled {
+  background-color: #f8f9fa !important; /* Putih */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+</style>
+
+<script>
+document.addEventListener("scroll", function() {
+  const navbar = document.querySelector(".navbar");
+  if (window.scrollY > 50) {
+    navbar.classList.add("scrolled");
+  } else {
+    navbar.classList.remove("scrolled");
+  }
+});
+</script>
+
+
+
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7" aria-label="Slide 8"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="8" aria-label="Slide 9"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="9" aria-label="Slide 10"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ url_for('static', filename='img/1.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ url_for('static', filename='img/2.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ url_for('static', filename='img/3.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ url_for('static', filename='img/4.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ url_for('static', filename='img/5.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ url_for('static', filename='img/6.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ url_for('static', filename='img/7.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ url_for('static', filename='img/8.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ url_for('static', filename='img/9.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ url_for('static', filename='img/10.jpg') }}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<div class="container text-center mt-4">
+  <h2 class="text">UM Terkini</h2>
+  <h3 class="lead mb-4">Ikuti Informasi Terbaru Universitas Mulia</h3>
+
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+      <div class="card h-100">
+      <blockquote 
+        class="instagram-media" 
+        data-instgrm-permalink="https://www.instagram.com/p/DNgylYvMCqI/?utm_source=ig_embed&amp;utm_campaign=loading" 
+        data-instgrm-version="14" 
+        style=" background:#FFF; border:0; margin: 1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      </blockquote>        
+      <div class="card-body">
+        </div>
+      </div>
+    </div>
+    <div class="col">
+  <div class="card h-100">
+    <div class="card-body p-0"> <!-- kasih padding 2 biar embed full -->
+      <blockquote 
+        class="instagram-media" 
+        data-instgrm-permalink="https://www.instagram.com/p/DNaWnwuBQAp/?utm_source=ig_embed&amp;utm_campaign=loading" 
+        data-instgrm-version="14" 
+        style=" background:#FFF; border:0; margin: 1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      </blockquote>
+    </div>
+  </div>
+</div>
+    <div class="col">
+  <div class="card h-100">
+    <div class="card-body p-0"> <!-- kasih padding 3 biar embed full -->
+      <blockquote 
+        class="instagram-media" 
+        data-instgrm-permalink="https://www.instagram.com/reel/DNUj8N7v_nB/?utm_source=ig_embed&amp;utm_campaign=loading" 
+        data-instgrm-version="14" 
+        style=" background:#FFF; border:0; margin: 1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      </blockquote>
+    </div>
+  </div>
+</div>
+    <div class="col">
+  <div class="card h-100">
+    <div class="card-body p-0"> <!-- kasih padding 4 biar embed full -->
+      <blockquote 
+        class="instagram-media" 
+        data-instgrm-permalink="https://www.instagram.com/p/DIviqBazrKh/?utm_source=ig_embed&amp;utm_campaign=loading" 
+        data-instgrm-version="14" 
+        style=" background:#FFF; border:0; margin: 1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      </blockquote>
+    </div>
+  </div>
+</div>
+    <div class="col">
+  <div class="card h-100">
+    <div class="card-body p-0"> <!-- kasih padding 5 biar embed full -->
+      <blockquote 
+        class="instagram-media" 
+        data-instgrm-permalink="https://www.instagram.com/p/DItHX6-z-Of/?utm_source=ig_embed&amp;utm_campaign=loading" 
+        data-instgrm-version="14" 
+        style=" background:#FFF; border:0; margin: 1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      </blockquote>
+    </div>
+  </div>
+</div>
+    <div class="col">
+  <div class="card h-100">
+    <div class="card-body p-0"> <!-- kasih padding 6 biar embed full -->
+      <blockquote 
+        class="instagram-media" 
+        data-instgrm-permalink="https://www.instagram.com/p/DIs6G0ATVqx/?utm_source=ig_embed&amp;utm_campaign=loading" 
+        data-instgrm-version="14" 
+        style=" background:#FFF; border:0; margin: 1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      </blockquote>
+    </div>
+  </div>
+</div>
+    <div class="col">
+  <div class="card h-100">
+    <div class="card-body p-0"> <!-- kasih padding 7 biar embed full -->
+      <blockquote 
+        class="instagram-media" 
+        data-instgrm-permalink="https://www.instagram.com/p/DDdzVRDzWiE/?utm_source=ig_embed&amp;utm_campaign=loading" 
+        data-instgrm-version="14" 
+        style=" background:#FFF; border:0; margin: 1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      </blockquote>
+    </div>
+  </div>
+</div>
+    <div class="col">
+  <div class="card h-100">
+    <div class="card-body p-0"> <!-- kasih padding 8 biar embed full -->
+      <blockquote 
+        class="instagram-media" 
+        data-instgrm-permalink="https://www.instagram.com/reel/DD_Eg5cTqZB/?utm_source=ig_embed&amp;utm_campaign=loading" 
+        data-instgrm-version="14" 
+        style=" background:#FFF; border:0; margin: 1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      </blockquote>
+    </div>
+  </div>
+</div>
+    <div class="col">
+  <div class="card h-100">
+    <div class="card-body p-0"> <!-- kasih padding 9 biar embed full -->
+      <blockquote 
+        class="instagram-media" 
+        data-instgrm-permalink="https://www.instagram.com/p/DF5S1LbvazM/?utm_source=ig_embed&amp;utm_campaign=loading" 
+        data-instgrm-version="14" 
+        style=" background:#FFF; border:0; margin: 1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      </blockquote>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+
+<!-- New Section: Video Cards and Contact Info -->
+<div class="container-fluid mt-5 py-4" style="background-color: #b22222;">
+  <div class="container">
+    <div class="row g-4 justify-content-center">
+      <div class="col-md-4">
+        <div class="ratio ratio-16x9">
+          <iframe src="https://www.youtube.com/embed/z30377gydhI" title="Profil Program Studi Hukum" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="ratio ratio-16x9">
+          <iframe src="https://www.youtube.com/embed/NDikqcHt0eA" title="Profil Program Studi S1 Teknologi Informasi" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="ratio ratio-16x9">
+          <iframe src="https://www.youtube.com/embed/vCQUheLJUcU" title="Profil Program Studi S1 Akuntansi" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid py-4" style="background-color: #ffff00; color: #555;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 d-flex">
+        <div class="me-3 align-self-start">
+          <span class="badge rounded-circle bg-danger fs-4">B</span>
+        </div>
+        <div>
+          <h5>Alamat Kampus Utama Balikpapan:</h5>
+          <p>Jl. Letjen Z.A. Maulani No. 9<br>
+          Kelurahan Damai Bahagia<br>
+          Kecamatan Balikpapan Selatan<br>
+          Kota Balikpapan<br>
+          Provinsi Kalimantan Timur<br>
+          Indonesia<br>
+          Kode Pos 76114<br>
+          Telp. 0542-766766</p>
+        </div>
+      </div>
+      <div class="col-md-6 d-flex">
+        <div class="me-3 align-self-start">
+          <span class="badge rounded-circle bg-secondary fs-4">S</span>
+        </div>
+        <div>
+          <h5>Alamat Kampus Program Studi Di luar Kampus Utama (PSDKU) Samarinda:</h5>
+          <p>Jl. Pahlawan No. 2A<br>
+          Kelurahan Dadi Mulya<br>
+          Kecamatan Samarinda Ulu<br>
+          Kota Samarinda<br>
+          Provinsi Kalimantan Timur<br>
+          Indonesia<br>
+          Kode Pos 75123</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <!-- Tombol Widget -->
+  <div id="chat-widget" onclick="toggleChat()">💬</div>
+
+  <!-- Popup Chat -->
+  <div id="chat-container">
+    <div id="chat-header">Chatbot Akademik</div>
+    <div id="chat-box"></div>
+    <div id="quick-replies">
+      <button onclick="sendQuick('Jadwal kuliah')">Jadwal kuliah</button>
+      <button onclick="sendQuick('Biaya kuliah')">Biaya kuliah</button>
+      <button onclick="sendQuick('Kontak admin')">Kontak admin</button>
+    </div>
+    <div id="chat-input">
+      <input type="text" id="user-input" placeholder="Ketik pesan..." />
+      <button onclick="sendMessage()">Kirim</button>
+    </div>
+  </div>
+  <script src="static/widget.js"></script>
+  <script async src="//www.instagram.com/embed.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+
+</body>
+</html>
