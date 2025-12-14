@@ -12,7 +12,16 @@ CSV_FILE = "faq.csv"
 # --- Fungsi load data ---
 def load_faqs():
     if os.path.exists(CSV_FILE):
-        return pd.read_csv(CSV_FILE)
+        try:
+            # Coba baca dengan koma
+            return pd.read_csv(CSV_FILE, encoding='utf-8')
+        except:
+            try:
+                # Coba baca dengan titik koma
+                return pd.read_csv(CSV_FILE, sep=';', encoding='utf-8')
+            except:
+                # Coba baca dengan tab
+                return pd.read_csv(CSV_FILE, sep='\t', encoding='utf-8')
     else:
         return pd.DataFrame(columns=["id","pertanyaan","jawaban","kategori","semester_berlaku","sumber"])
 
