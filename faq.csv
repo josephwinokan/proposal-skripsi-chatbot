@@ -21,9 +21,12 @@ id,pertanyaan,jawaban,kategori,semester_berlaku,sumber
 20,Kapan KHS dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
 21,Apa itu IPS?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
 22,Apa itu IPK?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
-23,Apa saja surat akademik yang dilayani BAAK?,BAAK melayani surat aktif kuliah KHS transkrip nilai dan surat pindah.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+23,Apa saja surat akademik yang dilayani BAAK?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
 24,Berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
 25,Apa itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
 26,Apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
 27,Apa itu Universitas Mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
 28,Dimana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+29,Kapan jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+30,Berapa biaya kuliah di Universitas Mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+31,Dimana lokasi kampus Universitas Mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
