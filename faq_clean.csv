@@ -1,0 +1,122 @@
+id,pertanyaan,jawaban,kategori,semester_berlaku,sumber
+1,apa baak,baak biro mengelola administrasi layanan akademik mahasiswa,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+2,apa baak ya,baak biro mengelola administrasi layanan akademik mahasiswa,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+3,apa dimaksud baak,baak biro mengelola administrasi layanan akademik mahasiswa,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+4,apa tugas utama baak,baak bertugas mengelola krs khs kalender akademik layanan administrasi akademik,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+7,mana layanan akademik diproses,seluruh layanan akademik diproses melalui baak universitas mulia,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+8,dimana layanan akademik diproses,seluruh layanan akademik diproses melalui baak universitas mulia,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+9,dimana layanan akademik diproses ya,seluruh layanan akademik diproses melalui baak universitas mulia,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+10,apa krs,krs kartu rencana studi berisi mata kuliah diambil mahasiswa setiap semester,Akademik,Setiap Semester,Panduan BAAK
+12,definisi krs,krs kartu rencana studi berisi mata kuliah diambil mahasiswa setiap semester,Akademik,Setiap Semester,Panduan BAAK
+13,kapan pengisian krs dilakukan,pengisian krs dilakukan awal semester sesuai kalender akademik,Akademik,Semester Ganjil & Genap,Kalender Akademik
+16,mana mengisi krs,krs diisi melalui sistem informasi akademik siam,Akademik,Setiap Semester,BAAK
+17,dimana mengisi krs ya,krs diisi melalui sistem informasi akademik siam,Akademik,Setiap Semester,BAAK
+18,dimana mengisi krs,krs diisi melalui sistem informasi akademik siam,Akademik,Setiap Semester,BAAK
+19,apakah krs wajib divalidasi ya,ya krs wajib divalidasi oleh dosen pembimbing akademik,Akademik,Setiap Semester,Panduan BAAK
+20,apakah krs wajib divalidasi,ya krs wajib divalidasi oleh dosen pembimbing akademik,Akademik,Setiap Semester,Panduan BAAK
+22,apa akibat krs tidak divalidasi,mahasiswa tidak dapat mengikuti perkuliahan ujian,Akademik,Setiap Semester,Panduan BAAK
+25,apa semester antara,semester antara semester pendek mengulang mata kuliah,Akademik,Antar Semester,BAAK
+26,apa semester antara ya,semester antara semester pendek mengulang mata kuliah,Akademik,Antar Semester,BAAK
+27,apa dimaksud semester antara,semester antara semester pendek mengulang mata kuliah,Akademik,Antar Semester,BAAK
+28,berapa maksimal sks semester antara ya,maksimal sks semester antara 9 sks,Akademik,Antar Semester,Panduan BAAK
+29,berapa maksimal sks semester antara,maksimal sks semester antara 9 sks,Akademik,Antar Semester,Panduan BAAK
+31,apakah semester antara wajib,semester antara bersifat opsional bagi mahasiswa,Akademik,Antar Semester,BAAK
+34,apa cuti akademik,cuti akademik izin tidak mengikuti perkuliahan dalam periode tertentu,Akademik,Berlaku Sepanjang Tahun,BAAK
+35,apa dimaksud cuti akademik,cuti akademik izin tidak mengikuti perkuliahan dalam periode tertentu,Akademik,Berlaku Sepanjang Tahun,BAAK
+36,definisi cuti akademik,cuti akademik izin tidak mengikuti perkuliahan dalam periode tertentu,Akademik,Berlaku Sepanjang Tahun,BAAK
+37,berapa lama cuti akademik,cuti akademik minimal 1 semester maksimal 3 semester tidak berturut turut,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+39,berapa lama cuti akademik ya,cuti akademik minimal 1 semester maksimal 3 semester tidak berturut turut,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+40,bagaimana cara mengajukan cuti,mahasiswa mengisi formulir cuti mengajukannya baak,Akademik,Berlaku Sepanjang Tahun,BAAK
+41,gimana cara mengajukan cuti,mahasiswa mengisi formulir cuti mengajukannya baak,Akademik,Berlaku Sepanjang Tahun,BAAK
+43,apa syarat mengikuti uts,mahasiswa harus memiliki krs valid memenuhi kehadiran,Akademik,Setiap Semester,Panduan Akademik
+45,apa syarat mengikuti uts ya,mahasiswa harus memiliki krs valid memenuhi kehadiran,Akademik,Setiap Semester,Panduan Akademik
+46,apa syarat mengikuti uas,mahasiswa harus memenuhi kehadiran tidak bermasalah secara akademik,Akademik,Setiap Semester,Panduan Akademik
+48,apa syarat mengikuti uas ya,mahasiswa harus memenuhi kehadiran tidak bermasalah secara akademik,Akademik,Setiap Semester,Panduan Akademik
+49,kapan uts dilaksanakan,uts dilaksanakan pertengahan semester sesuai kalender akademik,Akademik,Semester Ganjil & Genap,Kalender Akademik
+51,waktu uts dilaksanakan,uts dilaksanakan pertengahan semester sesuai kalender akademik,Akademik,Semester Ganjil & Genap,Kalender Akademik
+52,kapan uas dilaksanakan,uas dilaksanakan akhir semester sesuai kalender akademik,Akademik,Semester Ganjil & Genap,Kalender Akademik
+53,waktu uas dilaksanakan,uas dilaksanakan akhir semester sesuai kalender akademik,Akademik,Semester Ganjil & Genap,Kalender Akademik
+55,apa khs ya,khs kartu hasil studi memuat nilai mahasiswa,Akademik,Setiap Semester,BAAK
+56,apa khs,khs kartu hasil studi memuat nilai mahasiswa,Akademik,Setiap Semester,BAAK
+58,waktu khs dapat dilihat,khs dapat dilihat setelah dosen menyelesaikan penginputan nilai,Akademik,Setiap Semester,BAAK
+59,kapan khs dapat dilihat,khs dapat dilihat setelah dosen menyelesaikan penginputan nilai,Akademik,Setiap Semester,BAAK
+61,apa ips,ips indeks prestasi semester,Akademik,Setiap Semester,Panduan Akademik
+62,definisi ips,ips indeks prestasi semester,Akademik,Setiap Semester,Panduan Akademik
+64,apa ipk ya,ipk indeks prestasi kumulatif mahasiswa,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+65,definisi ipk,ipk indeks prestasi kumulatif mahasiswa,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+66,apa ipk,ipk indeks prestasi kumulatif mahasiswa,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+67,apa saja surat akademik dilayani baak,baak melayani surat aktif kuliah khs transkrip nilai surat pindah,Administrasi,Berlaku Sepanjang Tahun,BAAK
+70,berapa lama proses surat akademik,proses surat akademik umumnya memerlukan beberapa hari kerja,Administrasi,Berlaku Sepanjang Tahun,BAAK
+72,berapa lama proses surat akademik ya,proses surat akademik umumnya memerlukan beberapa hari kerja,Administrasi,Berlaku Sepanjang Tahun,BAAK
+73,apa kalender akademik,kalender akademik acuan resmi jadwal kegiatan akademik,Akademik,Tahunan,SK Kalender Akademik
+75,apa dimaksud kalender akademik,kalender akademik acuan resmi jadwal kegiatan akademik,Akademik,Tahunan,SK Kalender Akademik
+76,apakah kalender akademik bersifat wajib,ya kalender akademik wajib dijadikan acuan seluruh civitas akademika,Akademik,Tahunan,SK Kalender Akademik
+78,apakah kalender akademik bersifat wajib ya,ya kalender akademik wajib dijadikan acuan seluruh civitas akademika,Akademik,Tahunan,SK Kalender Akademik
+79,definisi universitas mulia,universitas mulia perguruan tinggi swasta balikpapan,Profil,Kurikulum 2024,Website Resmi
+80,apa universitas mulia,universitas mulia perguruan tinggi swasta balikpapan,Profil,Kurikulum 2024,Website Resmi
+82,mana lokasi kampus utama,kampus utama berlokasi jalan letjen zaini azhar maulani balikpapan,Profil,Berlaku Sepanjang Tahun,Website Resmi
+83,dimana lokasi kampus utama,kampus utama berlokasi jalan letjen zaini azhar maulani balikpapan,Profil,Berlaku Sepanjang Tahun,Website Resmi
+84,dimana lokasi kampus utama ya,kampus utama berlokasi jalan letjen zaini azhar maulani balikpapan,Profil,Berlaku Sepanjang Tahun,Website Resmi
+85,kapan jadwal kuliah dimulai setiap semester,jadwal kuliah dimulai sesuai kalender akademik universitas mulia biasanya dua minggu setelah pengisian krs selesai,Akademik,Setiap Semester,Kalender Akademik
+86,kapan jadwal kuliah dimulai setiap semester ya,jadwal kuliah dimulai sesuai kalender akademik universitas mulia biasanya dua minggu setelah pengisian krs selesai,Akademik,Setiap Semester,Kalender Akademik
+88,berapa biaya kuliah universitas mulia,biaya kuliah bervariasi tergantung program studi jenjang pendidikan informasi rinci dapat dilihat situs resmi universitas mulia bagian biaya pendidikan,Profil,Berlaku Sepanjang Tahun,Website Resmi
+89,berapa biaya kuliah universitas mulia ya,biaya kuliah bervariasi tergantung program studi jenjang pendidikan informasi rinci dapat dilihat situs resmi universitas mulia bagian biaya pendidikan,Profil,Berlaku Sepanjang Tahun,Website Resmi
+91,dimana lokasi kampus universitas mulia,kampus utama universitas mulia berlokasi jalan letjen zaini azhar maulani balikpapan kalimantan timur,Profil,Berlaku Sepanjang Tahun,Website Resmi
+,kurikulum 2025 2026,kurikulum 2025 2026 baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/kurikulum-2025-2026/
+,login email mahasiswa,login email mahasiswa baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/login-email-mahasiswa/
+,surat cuti akademik,surat cuti akademik baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/surat-cuti-akademik/
+,informasi akademik,pdf 1 4 1 0 obj creationdate d 20220901163233 08 00 creatortool pdf xchange standard 9,BAAK,Umum,https://baak.universitasmulia.ac.id/wp-content/uploads/2022/09/USER-GUIDE-SKPI.pdf
+,kurikulum 2024 2025,kurikulum 2024 2025 baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/kurikulum-2024-2025/
+,surat pindah program studi,surat pindah program studi baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/surat-pindah-program-studi/
+,pembagian kelas mahasiswa baru 2024 2025,pembagian kelas mahasiswa baru 2024 2025 baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/pembagian-kelas-mahasiswa-baru-2022-2023/
+,perubahan data mahasiswa,perubahan data mahasiswa baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/perubahan-data-mahasiswa/
+,pmb universitas mulia peneriman mahasiswa baru universitas mulia,pmb universitas mulia peneriman mahasiswa baru universitas mulia close pmb universitas mulia menu study with us admisi program diploma sarjana program kelas khusus unduh informasi booklet brosur daftar ulang pembayaran via bank biaya kuliah kontak waspada penipuan daftar akreditasi biaya daftar jurusan study with us admisi program diploma sarjana program kelas khusus unduh informasi booklet brosur daftar ulang pembayaran via bank biaya kuliah kontak waspada penipuan,BAAK,Umum,https://pmb.universitasmulia.ac.id
+,pemberitahuan akademik genap 2021 2022,pemberitahuan akademik genap 2021 2022 baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/pemberitahuan-akademik-genap-2021-2022/
+,pemberitahuan akademik ganjil 2021 2022,pemberitahuan akademik ganjil 2021 2022 baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/pemberitahuan-akademik-ganjil-2021-2022/
+,panduan validasi krs,panduan validasi krs baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/panduan-validasi-krs/
+,fakultas ilmu komputer fakultas ilmu komputer universitas mulia,fakultas ilmu komputer fakultas ilmu komputer universitas mulia fakultas ilmu komputer universitas mulia,BAAK,Umum,https://fikom.universitasmulia.ac.id
+,surat pindah waktu kuliah,surat pindah waktu kuliah baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/surat-pindah-waktu-kuliah/
+,sosialisasi msib batch 7 kiat sukses program merdeka belajar kampus merdeka,sosialisasi msib batch 7 kiat sukses program merdeka belajar kampus merdeka baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/sosialisasi-msib-batch-7-kiat-sukses-program-merdeka-belajar-kampus-merdeka/
+,home page fakultas humaniora kesehatan,home page fakultas humaniora kesehatan fakultas humaniora kesehatan home profile menu toggle tentang fakultas tentang kampus profile dosen renip renstra renop menu toggle pedoman akademik pedoman kurikulum renip renstra renop laporan akreditasi contact program studi menu toggle farmasi menu toggle kurikulum farmasi hukum pg paud akademik menu toggle kalender akademik ganjil 2025 layanan jadwal menu toggle jadwal farmasi jadwal hukum jadwal pg paud koleksi menu toggle e,BAAK,Umum,https://fhk.universitasmulia.ac.id
+,surat keterangan aktif kuliah,surat keterangan aktif kuliah baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/surat-keterangan-aktif-kuliah/
+,surat pindah kuliah,surat pindah kuliah baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/surat-pindah-kuliah/
+,info akademik genap 2023 2024,info akademik genap 2023 2024 baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/info-akademik-genap-2023-2024/
+,panduan krs semester antara,panduan krs semester antara baak baak,BAAK,Umum,https://baak.universitasmulia.ac.id/panduan-krs-semester-antara/
+,global technopreneur campus universitas mulia,global technopreneur campus universitas mulia profil profil akreditasi struktur organisasi roadmap kontak pendidikan program pendidikan penerimaan mahasiswa baru sistem pendidikan kalender akademik pelepasan alumni penelitian lembaga penelitian lp3m portal jurnal fakultas ilmu komputer metik multica sarjana netsign fakultas ekonomi bisnis sepinggan pelangi officia akuntania almanac forbis fakultasi humaniora kesehatan pharmacia khatulistiwa um journal of law seminar konferensi peng,BAAK,Umum,https://universitasmulia.ac.id
+1_aug0,apakah baak,baak biro mengelola administrasi layanan akademik mahasiswa,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+2_aug2,apakah baak ya,baak biro mengelola administrasi layanan akademik mahasiswa,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+4_aug0,apakah tugas utama baak,baak bertugas mengelola krs khs kalender akademik layanan administrasi akademik,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+8_aug0,lokasi layanan akademik diproses,seluruh layanan akademik diproses melalui baak universitas mulia,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+8_aug2,tempat layanan akademik diproses,seluruh layanan akademik diproses melalui baak universitas mulia,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+9_aug0,lokasi layanan akademik diproses ya,seluruh layanan akademik diproses melalui baak universitas mulia,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+9_aug2,tempat layanan akademik diproses ya,seluruh layanan akademik diproses melalui baak universitas mulia,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+10_aug0,apakah krs,krs kartu rencana studi berisi mata kuliah diambil mahasiswa setiap semester,Akademik,Setiap Semester,Panduan BAAK
+13_aug1,kapan sih pengisian krs dilakukan,pengisian krs dilakukan awal semester sesuai kalender akademik,Akademik,Semester Ganjil & Genap,Kalender Akademik
+13_aug2,waktu pengisian krs dilakukan,pengisian krs dilakukan awal semester sesuai kalender akademik,Akademik,Semester Ganjil & Genap,Kalender Akademik
+16_aug0,mana isi krs,krs diisi melalui sistem informasi akademik siam,Akademik,Setiap Semester,BAAK
+16_aug2,mana input krs,krs diisi melalui sistem informasi akademik siam,Akademik,Setiap Semester,BAAK
+17_aug0,tempat input krs ya,krs diisi melalui sistem informasi akademik siam,Akademik,Setiap Semester,BAAK
+17_aug1,dimana isi krs ya,krs diisi melalui sistem informasi akademik siam,Akademik,Setiap Semester,BAAK
+17_aug2,mana isi krs ya,krs diisi melalui sistem informasi akademik siam,Akademik,Setiap Semester,BAAK
+22_aug0,apakah akibat krs tidak divalidasi,mahasiswa tidak dapat mengikuti perkuliahan ujian,Akademik,Setiap Semester,Panduan BAAK
+27_aug1,apakah dimaksud semester antara,semester antara semester pendek mengulang mata kuliah,Akademik,Antar Semester,BAAK
+42_aug2,bagaimana cara cara mengajukan cuti,mahasiswa mengisi formulir cuti mengajukannya baak,Akademik,Berlaku Sepanjang Tahun,BAAK
+44_aug1,apakah syarat mengikuti uts,mahasiswa harus memiliki krs valid memenuhi kehadiran,Akademik,Setiap Semester,Panduan Akademik
+46_aug0,apakah syarat mengikuti uas,mahasiswa harus memenuhi kehadiran tidak bermasalah secara akademik,Akademik,Setiap Semester,Panduan Akademik
+54_aug0,kapan sih uas dilaksanakan,uas dilaksanakan akhir semester sesuai kalender akademik,Akademik,Semester Ganjil & Genap,Kalender Akademik
+55_aug2,apakah khs ya,khs kartu hasil studi memuat nilai mahasiswa,Akademik,Setiap Semester,BAAK
+56_aug1,apakah khs,khs kartu hasil studi memuat nilai mahasiswa,Akademik,Setiap Semester,BAAK
+60_aug2,kapan sih khs dapat dilihat,khs dapat dilihat setelah dosen menyelesaikan penginputan nilai,Akademik,Setiap Semester,BAAK
+61_aug0,apakah ips,ips indeks prestasi semester,Akademik,Setiap Semester,Panduan Akademik
+64_aug1,apakah ipk ya,ipk indeks prestasi kumulatif mahasiswa,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+68_aug0,apakah saja surat akademik dilayani baak,baak melayani surat aktif kuliah khs transkrip nilai surat pindah,Administrasi,Berlaku Sepanjang Tahun,BAAK
+73_aug2,apakah kalender akademik,kalender akademik acuan resmi jadwal kegiatan akademik,Akademik,Tahunan,SK Kalender Akademik
+75_aug1,apakah dimaksud kalender akademik,kalender akademik acuan resmi jadwal kegiatan akademik,Akademik,Tahunan,SK Kalender Akademik
+80_aug0,apakah universitas mulia,universitas mulia perguruan tinggi swasta balikpapan,Profil,Kurikulum 2024,Website Resmi
+84_aug2,lokasi lokasi kampus utama ya,kampus utama berlokasi jalan letjen zaini azhar maulani balikpapan,Profil,Berlaku Sepanjang Tahun,Website Resmi
+85_aug1,waktu jadwal kuliah dimulai setiap semester,jadwal kuliah dimulai sesuai kalender akademik universitas mulia biasanya dua minggu setelah pengisian krs selesai,Akademik,Setiap Semester,Kalender Akademik
+86_aug1,waktu jadwal kuliah dimulai setiap semester ya,jadwal kuliah dimulai sesuai kalender akademik universitas mulia biasanya dua minggu setelah pengisian krs selesai,Akademik,Setiap Semester,Kalender Akademik
+87_aug2,kapan sih jadwal kuliah dimulai setiap semester,jadwal kuliah dimulai sesuai kalender akademik universitas mulia biasanya dua minggu setelah pengisian krs selesai,Akademik,Setiap Semester,Kalender Akademik
+91_aug0,tempat lokasi kampus universitas mulia,kampus utama universitas mulia berlokasi jalan letjen zaini azhar maulani balikpapan kalimantan timur,Profil,Berlaku Sepanjang Tahun,Website Resmi
+91_aug1,mana lokasi kampus universitas mulia,kampus utama universitas mulia berlokasi jalan letjen zaini azhar maulani balikpapan kalimantan timur,Profil,Berlaku Sepanjang Tahun,Website Resmi
+92_aug1,lokasi lokasi kampus universitas mulia,kampus utama universitas mulia berlokasi jalan letjen zaini azhar maulani balikpapan kalimantan timur,Profil,Berlaku Sepanjang Tahun,Website Resmi

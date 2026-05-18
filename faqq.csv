@@ -1,0 +1,32 @@
+id,pertanyaan,jawaban,kategori,semester_berlaku,sumber
+1,Apa itu BAAK?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+2,Apa tugas utama BAAK?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+3,Dimana layanan akademik diproses?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+4,Apa itu KRS?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+5,Kapan pengisian KRS dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+6,Dimana mengisi KRS?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+7,Apakah KRS wajib divalidasi?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+8,Apa akibat KRS tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+9,Apa itu Semester Antara?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+10,Berapa maksimal SKS Semester Antara?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+11,Apakah Semester Antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+12,Apa itu cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+13,Berapa lama cuti akademik?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+14,Bagaimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+15,Apa syarat mengikuti UTS?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+16,Apa syarat mengikuti UAS?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+17,Kapan UTS dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+18,Kapan UAS dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+19,Apa itu KHS?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+20,Kapan KHS dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+21,Apa itu IPS?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+22,Apa itu IPK?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+23,Apa saja surat akademik yang dilayani BAAK?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+24,Berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+25,Apa itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+26,Apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+27,Apa itu Universitas Mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+28,Dimana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+29,Kapan jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+30,Berapa biaya kuliah di Universitas Mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+31,Dimana lokasi kampus Universitas Mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi

@@ -1,0 +1,385 @@
+id,pertanyaan,jawaban,kategori,semester_berlaku,sumber
+1,Apa itu BAAK?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+2,Apa itu BAAK ya?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+3,Apa yang dimaksud dengan BAAK?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+4,Apa tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+5,Apa tugas utama BAAK?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+6,apa tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+7,Di mana layanan akademik diproses?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+8,dimana layanan akademik diproses?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+9,Dimana layanan akademik diproses ya?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+10,Apa itu krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+11,Apa itu KRS?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+12,Definisi dari KRS?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+13,Kapan pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+14,Kapan pengisian KRS dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+15,kapan pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+16,Di mana mengisi KRS?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+17,Dimana mengisi KRS ya?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+18,Dimana mengisi KRS?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+19,Apakah KRS wajib divalidasi ya?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+20,apakah krs wajib divalidasi?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+21,Apakah KRS wajib divalidasi?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+22,Apa akibat KRS tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+23,apa akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+24,Apa akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+25,apa itu semester antara?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+26,Apa itu Semester Antara ya?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+27,Apa yang dimaksud dengan Semester Antara?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+28,Berapa maksimal SKS Semester Antara ya?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+29,Berapa maksimal sks semester antara?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+30,berapa maksimal sks semester antara?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+31,Apakah Semester Antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+32,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+33,Apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+34,Apa itu cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+35,Apa yang dimaksud dengan cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+36,Definisi dari cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+37,Berapa lama cuti akademik?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+38,berapa lama cuti akademik?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+39,Berapa lama cuti akademik ya?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+40,bagaimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+41,Gimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+42,Bagaimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+43,Apa syarat mengikuti UTS?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+44,apa syarat mengikuti uts?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+45,Apa syarat mengikuti UTS ya?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+46,Apa syarat mengikuti uas?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+47,apa syarat mengikuti uas?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+48,Apa syarat mengikuti UAS ya?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+49,kapan uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+50,Kapan UTS dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+51,Waktu UTS dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+52,kapan uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+53,Waktu UAS dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+54,Kapan UAS dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+55,Apa itu KHS ya?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+56,Apa itu khs?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+57,apa itu khs?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+58,Waktu KHS dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+59,kapan khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+60,Kapan KHS dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+61,Apa itu IPS?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+62,Definisi dari IPS?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+63,apa itu ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+64,Apa itu IPK ya?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+65,Definisi dari IPK?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+66,Apa itu IPK?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+67,Apa saja surat akademik yang dilayani BAAK?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+68,Apa saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+69,apa saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+70,berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+71,Berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+72,Berapa lama proses surat akademik ya?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+73,Apa itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+74,apa itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+75,Apa yang dimaksud dengan kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+76,apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+77,Apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+78,Apakah kalender akademik bersifat wajib ya?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+79,Definisi dari Universitas Mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+80,Apa itu universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+81,apa itu universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+82,Di mana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+83,Dimana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+84,Dimana lokasi kampus utama ya?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+85,kapan jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+86,Kapan jadwal kuliah dimulai setiap semester ya?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+87,Kapan jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+88,Berapa biaya kuliah di universitas mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+89,Berapa biaya kuliah di Universitas Mulia ya?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+90,berapa biaya kuliah di universitas mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+91,Dimana lokasi kampus Universitas Mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+92,dimana lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+93,Dimana lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+94,,,,,
+95,nan ya?,,,,
+96,Nan,,,,
+1_aug0,apakah itu baak?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+1_aug1,apa itu baak?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+1_aug2,apa itu baak?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+2_aug0,apa itu itu baak ya?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+2_aug1,apa itu itu baak ya?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+2_aug2,apakah itu baak ya?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+3_aug0,apa itu yang dimaksud dengan baak?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+3_aug1,apa yang dimaksud dengan baak?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+3_aug2,apa yang dimaksud dengan baak?,BAAK adalah biro yang mengelola administrasi dan layanan akademik mahasiswa.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+4_aug0,apakah tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+4_aug1,apa tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+4_aug2,apa tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+5_aug0,apa tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+5_aug1,apa itu tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+5_aug2,apa tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+6_aug0,apa tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+6_aug1,apa tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+6_aug2,apa tugas utama baak?,"BAAK bertugas mengelola KRS, KHS, kalender akademik, dan layanan administrasi akademik.",Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+7_aug0,di mana layanan akademik diproses?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+7_aug1,di mana layanan akademik diproses?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+7_aug2,di mana layanan akademik diproses?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+8_aug0,lokasi layanan akademik diproses?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+8_aug1,dimana layanan akademik diproses?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+8_aug2,tempat layanan akademik diproses?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+9_aug0,lokasi layanan akademik diproses ya?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+9_aug1,lokasi layanan akademik diproses ya?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+9_aug2,tempat layanan akademik diproses ya?,Seluruh layanan akademik diproses melalui BAAK Universitas Mulia.,Profil,Berlaku Sepanjang Tahun,BAAK Universitas Mulia
+10_aug0,apakah itu krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+10_aug1,apakah itu krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+10_aug2,apa itu itu krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+11_aug0,apa itu itu krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+11_aug1,apa itu krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+11_aug2,apakah itu krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+12_aug0,definisi dari krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+12_aug1,definisi dari krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+12_aug2,definisi dari krs?,KRS adalah Kartu Rencana Studi yang berisi mata kuliah yang diambil mahasiswa setiap semester.,Akademik,Setiap Semester,Panduan BAAK
+13_aug0,kapan pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+13_aug1,kapan sih pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+13_aug2,waktu pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+14_aug0,kapan pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+14_aug1,kapan sih pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+14_aug2,kapan pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+15_aug0,kapan pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+15_aug1,kapan sih pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+15_aug2,waktu pengisian krs dilakukan?,Pengisian KRS dilakukan pada awal semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+16_aug0,di mana isi krs?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+16_aug1,di mana mengisi krs?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+16_aug2,di mana input krs?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+17_aug0,tempat input krs ya?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+17_aug1,dimana isi krs ya?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+17_aug2,di mana isi krs ya?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+18_aug0,dimana mengisi krs?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+18_aug1,di mana isi krs?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+18_aug2,dimana mengisi krs?,KRS diisi melalui Sistem Informasi Akademik (SIAM).,Akademik,Setiap Semester,BAAK
+19_aug0,apakah krs wajib divalidasi ya?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+19_aug1,apakah krs wajib divalidasi ya?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+19_aug2,apakah krs wajib divalidasi ya?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+20_aug0,apakah krs wajib divalidasi?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+20_aug1,apakah krs wajib divalidasi?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+20_aug2,apakah krs wajib divalidasi?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+21_aug0,apakah krs wajib divalidasi?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+21_aug1,apakah krs wajib divalidasi?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+21_aug2,apakah krs wajib divalidasi?,"Ya, KRS wajib divalidasi oleh Dosen Pembimbing Akademik.",Akademik,Setiap Semester,Panduan BAAK
+22_aug0,apakah akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+22_aug1,apa akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+22_aug2,apa akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+23_aug0,apakah akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+23_aug1,apa itu akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+23_aug2,apakah akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+24_aug0,apa akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+24_aug1,apakah akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+24_aug2,apa akibat krs tidak divalidasi?,Mahasiswa tidak dapat mengikuti perkuliahan dan ujian.,Akademik,Setiap Semester,Panduan BAAK
+25_aug0,apa itu itu semester antara?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+25_aug1,apa itu semester antara?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+25_aug2,apa itu itu semester antara?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+26_aug0,apa itu semester antara ya?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+26_aug1,apa itu itu semester antara ya?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+26_aug2,apa itu semester antara ya?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+27_aug0,apa yang dimaksud dengan semester antara?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+27_aug1,apakah yang dimaksud dengan semester antara?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+27_aug2,apa yang dimaksud dengan semester antara?,Semester Antara adalah semester pendek untuk mengulang mata kuliah.,Akademik,Antar Semester,BAAK
+28_aug0,berapa maksimal sks semester antara ya?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+28_aug1,berapa maksimal sks semester antara ya?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+28_aug2,berapa maksimal sks semester antara ya?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+29_aug0,berapa maksimal sks semester antara?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+29_aug1,berapa maksimal sks semester antara?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+29_aug2,berapa maksimal sks semester antara?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+30_aug0,berapa maksimal sks semester antara?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+30_aug1,berapa maksimal sks semester antara?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+30_aug2,berapa maksimal sks semester antara?,Maksimal SKS Semester Antara adalah 9 SKS.,Akademik,Antar Semester,Panduan BAAK
+31_aug0,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+31_aug1,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+31_aug2,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+32_aug0,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+32_aug1,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+32_aug2,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+33_aug0,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+33_aug1,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+33_aug2,apakah semester antara wajib?,Semester Antara bersifat opsional bagi mahasiswa.,Akademik,Antar Semester,BAAK
+34_aug0,apa itu cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+34_aug1,apa itu cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+34_aug2,apa itu cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+35_aug0,apa yang dimaksud dengan cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+35_aug1,apa itu yang dimaksud dengan cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+35_aug2,apa yang dimaksud dengan cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+36_aug0,definisi dari cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+36_aug1,definisi dari cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+36_aug2,definisi dari cuti akademik?,Cuti akademik adalah izin tidak mengikuti perkuliahan dalam periode tertentu.,Akademik,Berlaku Sepanjang Tahun,BAAK
+37_aug0,berapa lama cuti akademik?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+37_aug1,berapa lama cuti akademik?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+37_aug2,berapa lama cuti akademik?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+38_aug0,berapa lama cuti akademik?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+38_aug1,berapa lama cuti akademik?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+38_aug2,berapa lama cuti akademik?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+39_aug0,berapa lama cuti akademik ya?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+39_aug1,berapa lama cuti akademik ya?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+39_aug2,berapa lama cuti akademik ya?,Cuti akademik minimal 1 semester dan maksimal 3 semester tidak berturut-turut.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+Mahasiswa mengisi40_aug0,bagaimana cara mengajukan cuti?, formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+40_aug1,bagaimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+40_aug2,bagaimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+41_aug0,gimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+41_aug1,gimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+41_aug2,gimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+42_aug0,bagaimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+42_aug1,bagaimana cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+42_aug2,bagaimana cara cara mengajukan cuti?,Mahasiswa mengisi formulir cuti dan mengajukannya ke BAAK.,Akademik,Berlaku Sepanjang Tahun,BAAK
+43_aug0,apa syarat mengikuti uts?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+43_aug1,apa itu syarat mengikuti uts?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+43_aug2,apa syarat mengikuti uts?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+44_aug0,apa itu syarat mengikuti uts?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+44_aug1,apakah syarat mengikuti uts?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+44_aug2,apa syarat mengikuti uts?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+45_aug0,apa syarat mengikuti uts ya?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+45_aug1,apa itu syarat mengikuti uts ya?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+45_aug2,apa syarat mengikuti uts ya?,Mahasiswa harus memiliki KRS valid dan memenuhi kehadiran.,Akademik,Setiap Semester,Panduan Akademik
+46_aug0,apakah syarat mengikuti uas?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+46_aug1,apa syarat mengikuti uas?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+46_aug2,apakah syarat mengikuti uas?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+47_aug0,apakah syarat mengikuti uas?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+47_aug1,apa syarat mengikuti uas?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+47_aug2,apakah syarat mengikuti uas?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+48_aug0,apa syarat mengikuti uas ya?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+48_aug1,apa itu syarat mengikuti uas ya?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+48_aug2,apa syarat mengikuti uas ya?,Mahasiswa harus memenuhi kehadiran dan tidak bermasalah secara akademik.,Akademik,Setiap Semester,Panduan Akademik
+49_aug0,kapan uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+49_aug1,kapan uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+49_aug2,waktu uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+50_aug0,waktu uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+50_aug1,kapan uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+50_aug2,waktu uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+51_aug0,waktu uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+51_aug1,waktu uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+51_aug2,waktu uts dilaksanakan?,UTS dilaksanakan pada pertengahan semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+52_aug0,kapan uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+52_aug1,kapan uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+52_aug2,kapan uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+53_aug0,waktu uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+53_aug1,waktu uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+53_aug2,waktu uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+54_aug0,kapan sih uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+54_aug1,kapan uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+54_aug2,kapan sih uas dilaksanakan?,UAS dilaksanakan pada akhir semester sesuai kalender akademik.,Akademik,Semester Ganjil & Genap,Kalender Akademik
+55_aug0,apa itu khs ya?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+55_aug1,apa itu khs ya?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+55_aug2,apakah itu khs ya?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+56_aug0,apa itu itu khs?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+56_aug1,apakah itu khs?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+56_aug2,apakah itu khs?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+57_aug0,apa itu khs?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+57_aug1,apa itu khs?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+57_aug2,apakah itu khs?,KHS adalah Kartu Hasil Studi yang memuat nilai mahasiswa.,Akademik,Setiap Semester,BAAK
+58_aug0,waktu khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+58_aug1,waktu khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+58_aug2,waktu khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+59_aug0,waktu khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+59_aug1,waktu khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+59_aug2,waktu khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+60_aug0,waktu khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+60_aug1,kapan khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+60_aug2,kapan sih khs dapat dilihat?,KHS dapat dilihat setelah dosen menyelesaikan penginputan nilai.,Akademik,Setiap Semester,BAAK
+61_aug0,apakah itu ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+61_aug1,apa itu ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+61_aug2,apa itu ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+62_aug0,definisi dari ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+62_aug1,definisi dari ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+62_aug2,definisi dari ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+63_aug0,apa itu ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+63_aug1,apa itu ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+63_aug2,apa itu ips?,IPS adalah Indeks Prestasi Semester.,Akademik,Setiap Semester,Panduan Akademik
+64_aug0,apa itu ipk ya?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+64_aug1,apakah itu ipk ya?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+64_aug2,apa itu ipk ya?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+65_aug0,definisi dari ipk?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+65_aug1,definisi dari ipk?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+65_aug2,definisi dari ipk?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+66_aug0,apa itu ipk?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+66_aug1,apa itu ipk?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+66_aug2,apa itu ipk?,IPK adalah Indeks Prestasi Kumulatif mahasiswa.,Akademik,Berlaku Sepanjang Tahun,Panduan Akademik
+67_aug0,apa itu saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+67_aug1,apa saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+67_aug2,apa saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+68_aug0,apakah saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+68_aug1,apa saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+68_aug2,apa itu saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+69_aug0,apa saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+69_aug1,apa saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+69_aug2,apakah saja surat akademik yang dilayani baak?,"BAAK melayani surat aktif kuliah, KHS, transkrip nilai, dan surat pindah.",Administrasi,Berlaku Sepanjang Tahun,BAAK
+70_aug0,berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+70_aug1,berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+70_aug2,berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+71_aug0,berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+71_aug1,berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+71_aug2,berapa lama proses surat akademik?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+72_aug0,berapa lama proses surat akademik ya?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+72_aug1,berapa lama proses surat akademik ya?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+72_aug2,berapa lama proses surat akademik ya?,Proses surat akademik umumnya memerlukan beberapa hari kerja.,Administrasi,Berlaku Sepanjang Tahun,BAAK
+73_aug0,apa itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+73_aug1,apa itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+73_aug2,apakah itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+74_aug0,apa itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+74_aug1,apa itu itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+74_aug2,apa itu kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+75_aug0,apa itu yang dimaksud dengan kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+75_aug1,apakah yang dimaksud dengan kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+75_aug2,apa itu yang dimaksud dengan kalender akademik?,Kalender akademik adalah acuan resmi jadwal kegiatan akademik.,Akademik,Tahunan,SK Kalender Akademik
+76_aug0,apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+76_aug1,apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+76_aug2,apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+77_aug0,apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+77_aug1,apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+77_aug2,apakah kalender akademik bersifat wajib?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+78_aug0,apakah kalender akademik bersifat wajib ya?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+78_aug1,apakah kalender akademik bersifat wajib ya?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+78_aug2,apakah kalender akademik bersifat wajib ya?,"Ya, kalender akademik wajib dijadikan acuan seluruh civitas akademika.",Akademik,Tahunan,SK Kalender Akademik
+79_aug0,definisi dari universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+79_aug1,definisi dari universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+79_aug2,definisi dari universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+80_aug0,apakah itu universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+80_aug1,apa itu universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+80_aug2,apakah itu universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+81_aug0,apa itu itu universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+81_aug1,apakah itu universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+81_aug2,apakah itu universitas mulia?,Universitas Mulia adalah perguruan tinggi swasta di Balikpapan,Profil,Kurikulum 2024,Website Resmi
+82_aug0,di mana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+82_aug1,di mana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+82_aug2,di mana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+83_aug0,di mana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+83_aug1,dimana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+83_aug2,dimana lokasi kampus utama?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+84_aug0,dimana lokasi kampus utama ya?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+84_aug1,dimana lokasi kampus utama ya?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+84_aug2,lokasi lokasi kampus utama ya?,"Kampus utama berlokasi di Jalan Letjen Zaini Azhar Maulani, Balikpapan",Profil,Berlaku Sepanjang Tahun,Website Resmi
+85_aug0,kapan jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+85_aug1,waktu jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+85_aug2,kapan jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+86_aug0,kapan jadwal kuliah dimulai setiap semester ya?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+86_aug1,waktu jadwal kuliah dimulai setiap semester ya?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+86_aug2,kapan jadwal kuliah dimulai setiap semester ya?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+87_aug0,kapan jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+87_aug1,waktu jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+87_aug2,kapan sih jadwal kuliah dimulai setiap semester?,Jadwal kuliah dimulai sesuai kalender akademik Universitas Mulia biasanya dua minggu setelah pengisian KRS selesai.,Akademik,Setiap Semester,Kalender Akademik
+88_aug0,berapa biaya kuliah di universitas mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+88_aug1,berapa biaya kuliah di universitas mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+88_aug2,berapa biaya kuliah di universitas mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+89_aug0,berapa biaya kuliah di universitas mulia ya?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+89_aug1,berapa biaya kuliah di universitas mulia ya?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+89_aug2,berapa biaya kuliah di universitas mulia ya?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+90_aug0,berapa biaya kuliah di universitas mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+90_aug1,berapa biaya kuliah di universitas mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+90_aug2,berapa biaya kuliah di universitas mulia?,Biaya kuliah bervariasi tergantung program studi dan jenjang pendidikan Informasi rinci dapat dilihat pada situs resmi Universitas Mulia di bagian biaya pendidikan.,Profil,Berlaku Sepanjang Tahun,Website Resmi
+91_aug0,tempat lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+91_aug1,di mana lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+91_aug2,tempat lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+92_aug0,dimana lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+92_aug1,lokasi lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+92_aug2,lokasi lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+93_aug0,dimana lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+93_aug1,dimana lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+93_aug2,dimana lokasi kampus universitas mulia?,"Kampus utama Universitas Mulia berlokasi di Jalan Letjen Zaini Azhar Maulani Balikpapan, Kalimantan Timur.",Profil,Berlaku Sepanjang Tahun,Website Resmi
+94_aug0,,,,,
+94_aug1,,,,,
+94_aug2,,,,,
+95_aug0,nan ya?,,,,
+95_aug1,nan ya?,,,,
+95_aug2,nan ya?,,,,
+96_aug0,nan,,,,
+96_aug1,nan,,,,
+96_aug2,nan,,,,
