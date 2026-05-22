@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Analytics Chatbot</title>
+</head>
+<body>
+
+<h1>Analytics Chatbot</h1>
+
+<a href="/admin/dashboard">
+    ⬅ Kembali Dashboard
+</a>
+
+<hr>
+<a href="/download/analytics">
+    📥 Download Analytics CSV
+</a>
+<table border="1" cellpadding="10">
+
+<tr>
+    <th>Waktu</th>
+    <th>Pertanyaan</th>
+    <th>Jawaban</th>
+    <th>Score</th>
+</tr>
+
+{% for row in rows %}
+<tr>
+    <td>{{ row.waktu }}</td>
+    <td>{{ row.pertanyaan }}</td>
+    <td>{{ row.jawaban }}</td>
+    <td>{{ row.score }}</td>
+</tr>
+{% endfor %}
+
+</table>
+
+</body>
+</html>

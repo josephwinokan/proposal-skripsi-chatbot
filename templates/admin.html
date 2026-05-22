@@ -1,86 +1,113 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Admin Chatbot TF-IDF</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-  <style>
-    .grid{display:grid;gap:1rem}
-    @media(min-width:920px){.grid{grid-template-columns:1fr 2fr}}
-    table td, table th{font-size:0.9rem}
-    code{white-space:pre-wrap}
-  </style>
+    <title>Admin Dashboard</title>
 </head>
 <body>
-  <header class="container">
-    <nav>
-      <ul><li><strong>Admin Chatbot TF-IDF</strong></li></ul>
-      <ul>
-        <li><a href="/download/faqs.csv">Unduh CSV</a></li>
-        <li><a href="/admin/logout" role="button" class="secondary">Logout</a></li>
-      </ul>
-    </nav>
-  </header>
 
-  <main class="container grid">
-    <section>
-      <h3>Tambah / Ubah Data</h3>
-      <form method="post" action="/admin/add">
-        <label>ID (opsional, auto jika kosong)<input name="id" type="number"></label>
-        <label>Pertanyaan<textarea name="pertanyaan" required></textarea></label>
-        <label>Jawaban<textarea name="jawaban" required></textarea></label>
-        <label>Kategori<input name="kategori"></label>
-        <label>Semester Berlaku<input name="semester_berlaku" placeholder="mis. 2025-ganjil atau 'umum'"></label>
-        <label>Sumber<input name="sumber"></label>
-        <button type="submit">Simpan Baru</button>
-      </form>
+<h1>Dashboard Admin</h1>
 
-      <details>
-        <summary>Snippet integrasi widget (WordPress)</summary>
-        <p>Tambahkan ke <em>Appearance → Widgets → Custom HTML</em> atau ke footer:</p>
-        <code>&lt;script src="https://YOUR-BACKEND-DOMAIN/widget.js" data-endpoint="https://YOUR-BACKEND-DOMAIN"&gt;&lt;/script&gt;</code>
-      </details>
-    </section>
+<a href="/admin/analytics">
+    📊 Analytics Chatbot
+</a>
 
-    <section>
-      <h3>Data FAQ</h3>
-      <table>
-        <thead>
-          <tr>
-            <th>ID</th><th>Pertanyaan</th><th>Jawaban</th><th>Kategori</th><th>Semester</th><th>Sumber</th><th>Aksi</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for r in rows %}
-          <tr>
-            <td>{{ r.id }}</td>
-            <td>{{ r.pertanyaan }}</td>
-            <td style="max-width:420px">{{ r.jawaban }}</td>
-            <td>{{ r.kategori }}</td>
-            <td>{{ r.semester_berlaku }}</td>
-            <td>{{ r.sumber }}</td>
-            <td>
-              <details>
-                <summary>Edit</summary>
-                <form method="post" action="/admin/update/{{ r.id }}">
-                  <label>Pertanyaan<textarea name="pertanyaan">{{ r.pertanyaan }}</textarea></label>
-                  <label>Jawaban<textarea name="jawaban">{{ r.jawaban }}</textarea></label>
-                  <label>Kategori<input name="kategori" value="{{ r.kategori }}"></label>
-                  <label>Semester<input name="semester_berlaku" value="{{ r.semester_berlaku }}"></label>
-                  <label>Sumber<input name="sumber" value="{{ r.sumber }}"></label>
-                  <button type="submit">Update</button>
-                </form>
-                <form method="post" action="/admin/delete/{{ r.id }}" onsubmit="return confirm('Hapus item ini?')">
-                  <button type="submit" class="secondary">Hapus</button>
-                </form>
-              </details>
-            </td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    </section>
-  </main>
+|
+<a href="/admin/logout">
+    Logout
+</a>
+
+<hr>
+
+<h2>Tambah FAQ</h2>
+
+<form method="POST" action="/add_faq">
+
+    <input type="text" name="pertanyaan" placeholder="Pertanyaan" required>
+    <br><br>
+
+    <textarea name="jawaban" placeholder="Jawaban" required></textarea>
+    <br><br>
+
+    <input type="text" name="kategori" placeholder="Kategori">
+    <br><br>
+
+    <input type="text" name="semester" placeholder="Semester">
+    <br><br>
+
+    <input type="text" name="sumber" placeholder="Sumber">
+    <br><br>
+
+    <button type="submit">
+        Tambah FAQ
+    </button>
+
+</form>
+
+<hr>
+
+<h2>Data FAQ</h2>
+
+<table border="1" cellpadding="10">
+
+<tr>
+    <th>ID</th>
+    <th>Pertanyaan</th>
+    <th>Jawaban</th>
+    <th>Kategori</th>
+    <th>Aksi</th>
+</tr>
+
+{% for row in rows %}
+<tr>
+
+<form method="POST" action="/edit_faq/{{ row.id }}">
+
+<td>{{ row.id }}</td>
+
+<td>
+<input type="text"
+name="pertanyaan"
+value="{{ row.pertanyaan }}">
+</td>
+
+<td>
+<textarea name="jawaban">{{ row.jawaban }}</textarea>
+</td>
+
+<td>
+<input type="text"
+name="kategori"
+value="{{ row.kategori }}">
+</td>
+
+<td>
+
+<input type="text"
+name="semester"
+value="{{ row.semester_berlaku }}">
+
+<input type="text"
+name="sumber"
+value="{{ row.sumber }}">
+
+<br><br>
+
+<button type="submit">
+    Update
+</button>
+
+<a href="/delete_faq/{{ row.id }}">
+    Delete
+</a>
+
+</td>
+
+</form>
+
+</tr>
+{% endfor %}
+
+</table>
+
 </body>
 </html>
