@@ -73,6 +73,10 @@ def load_faqs():
 
         df = pd.read_csv(CSV_FILE)
 
+        df["id"] = pd.to_numeric(df["id"], errors="coerce")
+        df = df.dropna(subset=["id"])
+        df["id"] = df["id"].astype(int)
+
         # pastikan kolom ada
         needed = [
             "id",
@@ -283,7 +287,7 @@ def edit_faq(id):
         return redirect("/admin")
 
     df = load_faqs()
-
+    
     idx = df[df["id"] == id].index
 
     if len(idx) == 0:
